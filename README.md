@@ -67,14 +67,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CodificandoAlonso&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/CodificandoAlonso/CodificandoAlonso/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
